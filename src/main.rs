@@ -1,4 +1,4 @@
-use std::io
+use std::io;
 
 fn main(){
 	println!("Welcome to the guessing game!!\n");
